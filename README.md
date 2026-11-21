@@ -1,6 +1,8 @@
 # RecFlare Discord Bot
 
-A standalone Discord bot for browsing RecFlare data: users, rooms, photos, and search results.
+A standalone Discord bot for browsing RecFlare data: users, rooms, photos, and search results. I thought it would be a cool idea because rec.net had a community made bot. And its also open source! Just like RecFlare
+
+Credits to: Devin, Fusion, and the rest of the RecFlare devs + staff for making this majestic ass revival
 
 ## Features
 
